@@ -23,6 +23,7 @@ Agent Roles and [Agent Skills](https://agentskills.io/) work in parallel to do d
 - Documentation - Guides and tutorials
 - Specification - Format details
 - Example Roles - See what's possible
+- [Evaluation](EVALUATION.md) - Measure the impact of using roles vs. no role
 
 This repo contains the specification, documentation, and reference SDK.
 
